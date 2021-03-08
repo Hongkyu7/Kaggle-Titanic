@@ -1,0 +1,2 @@
+* In pre-processing, Age nan check feature can be created.
+* In classifiation run, classification algorithms with gird-search function were made.
