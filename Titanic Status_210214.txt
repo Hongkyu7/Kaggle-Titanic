@@ -1,0 +1,13 @@
+* Data 전처리
+1. 결측치 처리
+2. 이상치 처리
+3. 표준화, 정규화
+4. One hot encoding (Vector) / Labeling (int. 1,2,3)
+
+* Train -> Train + Test 용 (80% vs 20%)
+
+* ML Algorithm (알고리즘 수학적 원리 / Parameter 의미 / Python 구현 방법)
+---------------------------------------------------------------
+
+* Cross Validation
+
